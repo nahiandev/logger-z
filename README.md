@@ -12,11 +12,11 @@ A simple keylogger written in C++
 
 Once after running _**LoggerZ**_ , open the Task Manager and you see a process running like this.
 
-![LoggerZ](https://github.com/nahiandev/logger-z/blob/main/Screenshot_1.png)
+![LoggerZ](https://github.com/nahiandev/logger-z/blob/main/screenshots/running_task.png)
 
 Having _**LoggerZ**_ running on a system , you will see a _.log_ file in the directory where the _**logger-z.exe**_ is located. This file will contain the keystrokes you type.
 
-![LoggerZ](https://github.com/nahiandev/logger-z/blob/main/Screenshot_2.png)
+![LoggerZ](https://github.com/nahiandev/logger-z/blob/main/screenshots/data_capture.png)
 This file will store all the keystrokes you have made previously.
 
 ### Let's have some fun using _**LoggerZ**_
